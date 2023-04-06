@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StockMarketApp</string>
+    <string name="search">Search........</string>
+    <string name="load_data_parser">could not load data</string>
+    <string name="load_data_parser_intraDayInfo">could not load IntraDayInfo</string>
+    <string name="load_data_parser_companyInfo">could not load companyInfo</string>
+    <string name="market_summary">Market Summery</string>
+
 </resources>
